@@ -1,2 +1,2 @@
 # mern-auth
-Simple authentication web app using MERN stack and passport
+Minimal MERN app using passport and jwt for auth
